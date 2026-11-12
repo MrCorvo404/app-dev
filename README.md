@@ -27,5 +27,3 @@ Here is a quick look at my top 4 favorite movies and series:
 - [x] Catch up on *The Walking Dead* spin-offs
 - [ ] Binge the entire MCU again
 - [ ] Read the *Ready Player One* book
-
-*Check out the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/) to see how this was made!*
